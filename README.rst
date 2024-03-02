@@ -1,14 +1,6 @@
 Starred
 =======
 
-.. image:: https://travis-ci.org/helloall1900/starred.svg?branch=master
-    :target: https://travis-ci.org/helloall1900/starred
-    :alt: Travis CI Status
-
-.. image:: https://requires.io/github/helloall1900/starred/requirements.svg?branch=master
-     :target: https://requires.io/github/helloall1900/starred/requirements/?branch=master
-     :alt: Requirements Status
-
 Install
 -------
 
