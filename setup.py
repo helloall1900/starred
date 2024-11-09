@@ -11,7 +11,7 @@ setup(
     url='https://github.com/helloall1900/starred',
     license='MIT',
     author='helloall1900',
-    author_email='lijinpeng1132@gmail.com',
+    author_email='whoiskim00@gmail.com',
     keywords='GitHub starred',
     description='creating your own Awesome List used GitHub stars!',
     long_description=long_description,
